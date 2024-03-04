@@ -3,7 +3,7 @@
 Astronomy images are difficult to plot in a single line of code.
 Astropy's ```simple_norm``` exists, but I wanted something easier than that. 
 
-So here is astroplot -- Just call the function and it plots the image.
+So here is astroplot -- Just call the function and it plots the image in logscale.
 
 ![image](https://github.com/SterlingYM/astroplot/assets/45109159/19626d06-860f-4c90-8c0f-8861b6f728a7)
 
